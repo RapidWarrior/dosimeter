@@ -1,2 +1,3 @@
 # dosimeter
-Radiation meter
+
+Energy efficient radiation meter
